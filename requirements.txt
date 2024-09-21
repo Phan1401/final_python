@@ -1,9 +1,9 @@
-Streamlit : 1.38.0
+streamlit ==1.38.0
 
-NumPy : 2.1.1
+numpy == 2.1.1
 
-PIL : 9.0.1
+PIL  == 9.0.1
 
-Torch : 2.4.1+cu121
+torch == 2.4.1+cu121
 
-TorchVision : 0.19.1+cu121
+torchvision  == 0.19.1+cu121
